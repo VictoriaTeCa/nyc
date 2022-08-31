@@ -1,4 +1,4 @@
-1 streamlit
-2 altair
-3 pandas
-4 numpy
+ streamlit
+ altair
+ pandas
+ numpy
